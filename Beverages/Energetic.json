@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "beverageName": "Enerji İçeceği",
+    "mood": "Enerjik",
+    "contents": "1 kutu enerji içeceği\n200 ml soda\nBirkaç buz küpü",
+    "preparation": "Bir bardağa enerji içeceğini alın ve üzerine sodayı ekleyin. Buz küpleri ile soğutun ve hemen servis yapın.",
+    "youtubeVideoId": "4v6OzDrCrXE",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/energyDrink.jpg"
+  },
+  {
+    "id": 2,
+    "beverageName": "Yeşil Çay",
+    "mood": "Enerjik",
+    "contents": "1 poşet yeşil çay\n200 ml su\nBirkaç dilim limon",
+    "preparation": "Su kaynatın ve bir bardağa yeşil çay poşetini ekleyin. 3-5 dakika demlenmesini bekleyin. Demlenen çaya limon dilimleri ekleyerek servis yapın.",
+    "youtubeVideoId": "_AkatkR_yKk",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/greenTea.jpg"
+  },
+  {
+    "id": 3,
+    "beverageName": "Espresso",
+    "mood": "Enerjik",
+    "contents": "2 shot espresso\nBirkaç yemek kaşığı süt",
+    "preparation": "Espresso'yu hazırlayın ve bir fincana alın. Sütü buharlaştırarak espresso'nun üzerine ekleyin. İyice karıştırarak servis yapın.",
+    "youtubeVideoId": "qBSEd9XG7mM",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/espresso.jpg"
+  },
+  {
+    "id": 4,
+    "beverageName": "Meyveli Smoothie",
+    "mood": "Enerjik",
+    "contents": "1 adet muz\n1/2 su bardağı çilek\n1/2 su bardağı ananas\n200 ml portakal suyu",
+    "preparation": "Tüm meyveleri blender'dan geçirin. Portakal suyu ile kıvamını ayarlayın. Pürüzsüz bir smoothie elde edene kadar blendırın ve servis yapın.",
+    "youtubeVideoId": "mWA9p6xnEMc",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/fruitSmoothie.jpg"
+  },
+  {
+    "id": 5,
+    "beverageName": "Keten Tohumlu Smoothie",
+    "mood": "Enerjik",
+    "contents": "2 yemek kaşığı keten tohumu\n1 adet muz\n200 ml badem sütü",
+    "preparation": "Muzu ve keten tohumunu blender'a ekleyin. Badem sütünü ekleyerek pürüzsüz bir kıvam alana kadar blendırın. Servis yapmadan önce bir süzgeçten geçirerek posalı kısımları alabilirsiniz.",
+    "youtubeVideoId": "kKpDwunutK8",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/flaxseedSmoothie.jpg"
+  },
+  {
+    "id": 6,
+    "beverageName": "Antrenman Öncesi Shake",
+    "mood": "Enerjik",
+    "contents": "1 ölçek protein tozu\n1 muz\n200 ml süt\nBirkaç buz küpü",
+    "preparation": "Tüm malzemeleri blender'a ekleyin. Pürüzsüz bir kıvam alana kadar blendırın ve hemen servis yapın.",
+    "youtubeVideoId": "uHMmjj7U77E",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/preWorkoutShake.jpg"
+  },
+  {
+    "id": 7,
+    "beverageName": "Karpuzlu Iced Tea",
+    "mood": "Enerjik",
+    "contents": "Birkaç dilim karpuz\n1 litre demlenmiş buzlu çay",
+    "preparation": "Karpuz dilimlerini blender'dan geçirin ve püre haline getirin. Büyük bir sürahiye karpuz püresini ve demlenmiş buzlu çayı ekleyin. İyice karıştırın ve servis yapın.",
+    "youtubeVideoId": "Vs5APlWfeVA",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/watermelonIcedTea.jpg"
+  },
+  {
+    "id": 8,
+    "beverageName": "Enerji Bombası Smoothie",
+    "mood": "Enerjik",
+    "contents": "1 adet avokado\n1/2 su bardağı yaban mersini\n200 ml badem sütü",
+    "preparation": "Avokadoyu ve yaban mersinini blender'dan geçirin. Badem sütü ekleyerek pürüzsüz bir kıvam alana kadar blendırın. Servis yapmadan önce bir süzgeçten geçirerek posalı kısımları alabilirsiniz.",
+    "youtubeVideoId": "4ZrTxzHPmMM",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/energyBombSmoothie.jpg"
+  },
+  {
+    "id": 9,
+    "beverageName": "C Vitamini Bombası",
+    "mood": "Enerjik",
+    "contents": "1 portakal\n1 greyfurt\n1 limon\n200 ml su",
+    "preparation": "Tüm meyveleri sıkın ve suyla karıştırın. İyice karıştırarak servis yapın.",
+    "youtubeVideoId": "mc6x9UkViaM",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/citrusJuice.jpg"
+  },
+  {
+    "id": 10,
+    "beverageName": "Açai Bowl",
+    "mood": "Enerjik",
+    "contents": "1 paket açai tozu\n1 muz\nBirkaç yemek kaşığı granola\nBirkaç dilim çilek",
+    "preparation": "Açai tozu, muz ve bir miktar suyu blender'da karıştırın. Karışımı bir kaseye alın ve üzerine granola ve dilimlenmiş çilek ekleyin. Hemen servis yapın.",
+    "youtubeVideoId": "BkV6PN0uPyM",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/acaiBowl.jpg"
+  }
+]
