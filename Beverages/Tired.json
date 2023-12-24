@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "beverageName": "Zencefilli Limonata",
+    "mood": "Yorgun",
+    "contents": "2 adet limon\n1 parça zencefil\n500 ml su\n2 yemek kaşığı şeker",
+    "preparation": "Limonları sıkın ve su ile karıştırın. Zencefili rendeleyin ve suya ekleyin. Şekeri ekleyerek karıştırın. Soğuk olarak servis yapın.",
+    "youtubeVideoId": "x8jahj71fi4",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/gingerLemonade.jpg"
+  },
+  {
+    "id": 2,
+    "beverageName": "Kış Çayı",
+    "mood": "Yorgun",
+    "contents": "1 adet portakal\n1 adet limon\n2 adet karanfil\n1 çubuk tarçın\n500 ml su\n2 yemek kaşığı bal",
+    "preparation": "Portakalı ve limonu dilimleyin. Suyu kaynatın ve dilimlenmiş meyveleri, karanfili ve tarçını ekleyin. 10 dakika kaynatın. Balı ekleyerek karıştırın. Soğuduktan sonra süzün ve sıcak olarak servis yapın.",
+    "youtubeVideoId": "fb77_PQgcVY",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/winterTea.jpg"
+  },
+  {
+    "id": 3,
+    "beverageName": "Lavanta Çayı",
+    "mood": "Yorgun",
+    "contents": "2 yemek kaşığı lavanta çiçeği\n500 ml su",
+    "preparation": "Suyu kaynatın ve bir sürahiye lavanta çiçeğini ekleyin. 10 dakika demlenmesini bekleyin. Demlenen çayı süzün ve sıcak olarak servis yapın.",
+    "youtubeVideoId": "X_qjtY_lD2A",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/lavenderTea.jpg"
+  },
+  {
+    "id": 4,
+    "beverageName": "Muzlu Süt",
+    "mood": "Yorgun",
+    "contents": "1 adet muz\n200 ml süt\n1 yemek kaşığı bal",
+    "preparation": "Muzu blendırda püre haline getirin. Sütü ekleyin ve karıştırın. Bala ekleyerek blendırın. Soğuk olarak servis yapın.",
+    "youtubeVideoId": "_Y5Zgr0hpOU",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/bananaMilk.jpg"
+  },
+  {
+    "id": 5,
+    "beverageName": "Kamomil & Honey Latte",
+    "mood": "Yorgun",
+    "contents": "1 poşet kamomil çayı\n200 ml süt\n2 yemek kaşığı bal",
+    "preparation": "Sütü ısıtın ve bir fincana alın. Kamomil çayı poşetini ekleyin ve demlenmesini bekleyin. Balı ekleyerek karıştırın. Sıcak olarak servis yapın.",
+    "youtubeVideoId": "PyeWrZHahgA",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/chamomileLatte.jpg"
+  },
+  {
+    "id": 6,
+    "beverageName": "Çikolatalı Muz Smoothie",
+    "mood": "Yorgun",
+    "contents": "1 adet muz\n2 yemek kaşığı kakao\n200 ml badem sütü",
+    "preparation": "Muzu blendırda püre haline getirin. Kakao ve badem sütünü ekleyerek blendırın. Soğuk olarak servis yapın.",
+    "youtubeVideoId": "eILdqoJrc8o",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/chocolateBananaSmoothie.jpg"
+  },
+  {
+    "id": 7,
+    "beverageName": "Karpuzlu Limonata",
+    "mood": "Yorgun",
+    "contents": "Birkaç dilim karpuz\n1 adet limon\n500 ml su\n2 yemek kaşığı şeker",
+    "preparation": "Karpuz dilimlerini blender'dan geçirin. Limon suyunu ekleyin. Şekeri ekleyerek karıştırın. Soğuk olarak servis yapın.",
+    "youtubeVideoId": "b34taRvrR20",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/watermelonLemonade.jpg"
+  },
+  {
+    "id": 8,
+    "beverageName": "Çilek & Badem Sütü",
+    "mood": "Yorgun",
+    "contents": "Birkaç adet çilek\n200 ml badem sütü\n1 yemek kaşığı bal",
+    "preparation": "Çilekleri blendırda püre haline getirin. Badem sütünü ekleyerek blendırın. Bala ekleyerek karıştırın. Soğuk olarak servis yapın.",
+    "youtubeVideoId": "igIpbuVEhJU",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/strawberryAlmondMilk.jpg"
+  },
+  {
+    "id": 9,
+    "beverageName": "Naneli Limonata",
+    "mood": "Yorgun",
+    "contents": "1 adet limon\nBirkaç yaprak taze nane\n500 ml su\n2 yemek kaşığı şeker",
+    "preparation": "Limonu sıkın ve su ile karıştırın. Taze nane yapraklarını ekleyin. Şekeri ekleyerek karıştırın. Soğuk olarak servis yapın.",
+    "youtubeVideoId": "DVYFj_8kYpY",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/mintLemonade.jpg"
+  },
+  {
+    "id": 10,
+    "beverageName": "Mango & Yulaf Smoothie",
+    "mood": "Yorgun",
+    "contents": "1 adet mango\n2 yemek kaşığı yulaf\n200 ml süt",
+    "preparation": "Mangoyu blendırda püre haline getirin. Yulafları ekleyerek blendırın. Sütü ekleyerek karıştırın. Soğuk olarak servis yapın.",
+    "youtubeVideoId": "HRqUN_ATtmE",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/mangoOatSmoothie.jpg"
+  }
+]
