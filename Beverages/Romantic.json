@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "beverageName": "Çikolatalı Sıcak İçecek",
+    "mood": "Romantik",
+    "contents": "200 ml süt\n30 gr bitter çikolata\nBirkaç damla vanilya özütü",
+    "preparation": "Bir tencereye sütü alın ve ısıtmaya başlayın. Isınan sütün içine bitter çikolata ve vanilya özütünü ekleyin. Karıştırarak malzemelerin iyice erimesini sağlayın. Sıcak içeceği bardağa alın ve servis yapın.",
+    "youtubeVideoId": "6nXv-Np-Bc4",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/chocolateDrink.jpg"
+  },
+  {
+    "id": 2,
+    "beverageName": "Lavantalı Latte",
+    "mood": "Romantik",
+    "contents": "200 ml süt\n1 yemek kaşığı lavanta şurubu\n2 shot espresso",
+    "preparation": "Espresso'yu hazırlayın. Ayrı bir yerde sütü ısıtın ve içerisine lavanta şurubunu ekleyin. Isınan lavantalı sütü bir bardağa alın ve üzerine espresso'yu ekleyin. Karıştırarak servis yapın.",
+    "youtubeVideoId": "zHKh2uTcQCU",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/lavenderLatte.jpg"
+  },
+  {
+    "id": 3,
+    "beverageName": "Gül Petalli Çay",
+    "mood": "Romantik",
+    "contents": "1 yemek kaşığı kırmızı gül yaprağı\n200 ml su",
+    "preparation": "Su kaynatın ve bir bardağa gül yapraklarını ekleyin. 5 dakika demlenmesini bekleyin. Demlenen çayı süzün ve servis yapın.",
+    "youtubeVideoId": "22Fb0EFjFoc",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/roseTea.jpg"
+  },
+  {
+    "id": 4,
+    "beverageName": "Vişne Likörlü Mojito",
+    "mood": "Romantik",
+    "contents": "Birkaç yaprak taze nane\nBirkaç dilim limon\n2 yemek kaşığı vişne likörü\n200 ml soda",
+    "preparation": "Bir bardakta nane yapraklarını ve limon dilimlerini ezin. Üzerine vişne likörü ve sodayı ekleyin. İyice karıştırarak servis yapın.",
+    "youtubeVideoId": "WiEPAAR8a2w",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/cherryMojito.jpg"
+  },
+  {
+    "id": 5,
+    "beverageName": "Çilekli Champagne",
+    "mood": "Romantik",
+    "contents": "Birkaç dilim çilek\n150 ml soğuk şampanya",
+    "preparation": "Bir şampanya kadehine çilek dilimlerini yerleştirin. Üzerine soğuk şampanyayı dökün ve hemen servis yapın.",
+    "youtubeVideoId": "zXR7W-E2Ir4",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/strawberryChampagne.jpg"
+  },
+  {
+    "id": 6,
+    "beverageName": "Mandalinalı Bellini",
+    "mood": "Romantik",
+    "contents": "Birkaç dilim mandalina\n150 ml soğuk şampanya",
+    "preparation": "Mandalina dilimlerini bir blender'a alın ve püre haline getirin. Bir bardağa mandalina püresini dökün ve üzerine soğuk şampanyayı ekleyin. İyice karıştırarak servis yapın.",
+    "youtubeVideoId": "e1fR6ur19ec",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/mandarinBellini.jpg"
+  },
+  {
+    "id": 7,
+    "beverageName": "Çilekli Daiquiri",
+    "mood": "Romantik",
+    "contents": "Birkaç dilim çilek\n2 yemek kaşığı beyaz rom\n1 yemek kaşığı limon suyu\n1 yemek kaşığı şeker",
+    "preparation": "Bir blender'da çilek dilimlerini, beyaz romu, limon suyunu ve şekeri karıştırın. Pürüzsüz bir kıvam alana kadar blendırın ve servis yapın.",
+    "youtubeVideoId": "VhjtRZdw9aE",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/strawberryDaiquiri.jpg"
+  },
+  {
+    "id": 8,
+    "beverageName": "Romantik Kakao",
+    "mood": "Romantik",
+    "contents": "200 ml süt\n2 yemek kaşığı kakao\nBirkaç damla badem özü",
+    "preparation": "Bir tencereye sütü alın ve ısıtmaya başlayın. Isınan sütün içine kakao ve badem özünü ekleyin. Karıştırarak malzemelerin iyice erimesini sağlayın. Sıcak kakao'yı bardağa alın ve servis yapın.",
+    "youtubeVideoId": "d59i5tI8hmo",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/almondCocoa.jpg"
+  },
+  {
+    "id": 9,
+    "beverageName": "Çikolatalı Çilek Smoothie",
+    "mood": "Romantik",
+    "contents": "Birkaç dilim çilek\n30 gr beyaz çikolata\n200 ml süt",
+    "preparation": "Bir blender'da çilek dilimlerini, beyaz çikolatayı ve sütü karıştırın. Pürüzsüz bir kıvam alana kadar blendırın ve servis yapın.",
+    "youtubeVideoId": "7VZTcLxh1MM",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/chocolateStrawberrySmoothie.jpg"
+  },
+  {
+    "id": 10,
+    "beverageName": "Meyve Kokteyli",
+    "mood": "Romantik",
+    "contents": "Birkaç dilim mango\nBirkaç dilim ananas\nBirkaç dilim kivi\n200 ml portakal suyu",
+    "preparation": "Tüm meyveleri blender'dan geçirin. Portakal suyu ile kıvamını ayarlayın. Pürüzsüz bir kokteyl elde edene kadar blendırın ve servis yapın.",
+    "youtubeVideoId": "_nMbnLKorxI",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/fruitCocktail.jpg"
+  }
+]
