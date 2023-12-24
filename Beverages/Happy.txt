@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "beverageName": "Sıcak Çikolata",
+    "mood": "Mutlu",
+    "contents": "200 ml süt\n2 yemek kaşığı kakao\n2 yemek kaşığı şeker",
+    "preparation": "Bir tencereye sütü alın ve ısıtmaya başlayın. Isınan sütün içine kakao ve şekeri ekleyin. Karıştırarak malzemelerin iyice erimesini sağlayın. Sıcak çikolatayı bardağa alın ve servis yapın.",
+    "youtubeVideoId": "627qMA1JV2U",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/hotChocolate.jpg"
+  },
+  {
+    "id": 2,
+    "beverageName": "Elma Çayı",
+    "mood": "Mutlu",
+    "contents": "1 adet elma\n1 litre su\nBal (isteğe bağlı)",
+    "preparation": "Elmayı dilimleyin ve bir tencereye alın. Üzerine su ekleyin ve kaynatın. Kaynamaya başladığında altını kısıp 10 dakika daha kaynatın. Çayı süzün ve isteğe bağlı olarak bal ekleyerek servis yapın.",
+    "youtubeVideoId": "VQx4I5HAa4g",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/appleTea.jpg"
+  },
+  {
+    "id": 3,
+    "beverageName": "Muzlu Smoothie",
+    "mood": "Mutlu",
+    "contents": "1 adet muz\n200 ml süt\n2 yemek kaşığı yoğurt",
+    "preparation": "Muzu dilimleyin ve bir blender'a alın. Üzerine süt ve yoğurdu ekleyin. Karıştırarak pürüzsüz bir kıvam elde edene kadar blendırın. Smoothie'yi bardağa alın ve servis yapın.",
+    "youtubeVideoId": "be7ieI-nXuA",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/bananaSmoothie.jpg"
+  },
+  {
+    "id": 4,
+    "beverageName": "Portakal Suyu",
+    "mood": "Mutlu",
+    "contents": "3 adet portakal",
+    "preparation": "Portakalları sıkın ve suyunu bir bardağa alın. Taze portakal suyunu direkt olarak servis yapın.",
+    "youtubeVideoId": "1_pGTeOL2Lk",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/orangeJuice.jpg"
+  },
+  {
+    "id": 5,
+    "beverageName": "Çilek Shake",
+    "mood": "Mutlu",
+    "contents": "200 gr çilek\n200 ml süt\n2 yemek kaşığı bal",
+    "preparation": "Çilekleri yıkayın ve saplarını çıkarın. Bir blender'a çilekleri, sütü ve balı ekleyin. Karıştırarak pürüzsüz bir kıvam elde edene kadar blendırın. Çilek shake'i bardağa alın ve servis yapın.",
+    "youtubeVideoId": "ELTh7rvoKkM",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/strawberryShake.jpg"
+  },
+  {
+    "id": 6,
+    "beverageName": "Naneli Limonata",
+    "mood": "Mutlu",
+    "contents": "2 adet limon\nBirkaç dal taze nane\n1 litre su\n2 yemek kaşığı şeker",
+    "preparation": "Limonları sıkın ve suyunu bir karıştırma kabına alın. Üzerine nane yapraklarını, şeker ve suyu ekleyin. İyice karıştırın ve soğutun. Soğuyan limonatayı bardağa alın ve servis yapın.",
+    "youtubeVideoId": "_6HvXxRbDPg",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/mintLemonade.jpg"
+  },
+  {
+    "id": 7,
+    "beverageName": "Vanilyalı Latte",
+    "mood": "Mutlu",
+    "contents": "200 ml süt\n1 yemek kaşığı vanilya ekstraktı\n2 shot espresso",
+    "preparation": "Espresso'yu hazırlayın. Ayrı bir yerde sütü ısıtın ve içerisine vanilya ekstraktını ekleyin. Isınan sütü bir bardağa alın ve üzerine espresso'yu ekleyin. Karıştırarak servis yapın.",
+    "youtubeVideoId": "BjpaJB6NxbU",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/vanillaLatte.jpg"
+  },
+  {
+    "id": 8,
+    "beverageName": "Karpuzlu Iced Tea",
+    "mood": "Mutlu",
+    "contents": "Birkaç dilim karpuz\n1 litre demlenmiş buzlu çay",
+    "preparation": "Karpuz dilimlerini blendırın ve püre haline getirin. Büyük bir sürahiye karpuz püresini ve demlenmiş buzlu çayı ekleyin. İyice karıştırın ve servis yapın.",
+    "youtubeVideoId": "B4z9iMCiHg8",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/watermelonIcedTea.jpg"
+  },
+  {
+    "id": 9,
+    "beverageName": "Çikolatalı Milkshake",
+    "mood": "Mutlu",
+    "contents": "3 top vanilyalı dondurma\n200 ml süt\n2 yemek kaşığı kakao",
+    "preparation": "Dondurma, süt ve kakao'yu bir blender'a ekleyin. Pürüzsüz bir kıvam elde edene kadar blendırın. Milkshake'i bardağa alın ve servis yapın.",
+    "youtubeVideoId": "zZQaEWGTd2o",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/chocolateMilkshake.jpg"
+  },
+  {
+    "id": 10,
+    "beverageName": "Kokteyl",
+    "mood": "Mutlu",
+    "contents": "50 ml votka\n150 ml portakal suyu\n2 yemek kaşığı limon suyu\nBirkaç buz küpü",
+    "preparation": "Bir kokteyl shaker'ında tüm malzemeleri buz küpleriyle birlikte çalkalayın. Kokteyli bardağa süzerek alın ve servis yapın.",
+    "youtubeVideoId": "BF8ni4a58HU",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/cocktail.jpg"
+  }
+]

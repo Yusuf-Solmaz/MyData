@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "moodName": "Mutlu"
+  },
+  {
+    "id": 2,
+    "moodName": "Hüzünlü"
+  },
+  {
+    "id": 3,
+    "moodName": "Enerjik"
+  },
+  {
+    "id": 4,
+    "moodName": "Romantik"
+  },
+  {
+    "id": 5,
+    "moodName": "Heyecanlı"
+  },
+  {
+    "id": 6,
+    "moodName": "Stresli"
+  },
+  {
+    "id": 7,
+    "moodName": "Rahat"
+  },
+  {
+    "id": 8,
+    "moodName": "Yorgun"
+  }
+]
