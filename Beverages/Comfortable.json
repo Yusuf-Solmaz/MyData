@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "beverageName": "Vanilyalı Latte",
+    "mood": "Rahat",
+    "contents": "1 shot espresso\n200 ml süt\n1 çay kaşığı vanilya özütü\n1 tatlı kaşığı şeker",
+    "preparation": "Espresso'yu bir fincana alın. Sütü ısıtarak köpürtün ve espressonun üzerine ekleyin. Vanilya özütü ve şekeri ekleyerek karıştırın. Hemen servis yapın.",
+    "youtubeVideoId": "BjpaJB6NxbU",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/vanillaLatte.jpg"
+  },
+  {
+    "id": 2,
+    "beverageName": "Elmalı Sıcak Çay",
+    "mood": "Rahat",
+    "contents": "2 adet yeşil elma\n2 poşet yeşil çay\n500 ml su",
+    "preparation": "Elmaları dilimleyin ve bir tencereye alın. Suyu ekleyerek kaynatın. Kaynadıktan sonra yeşil çay poşetlerini ekleyin ve 5 dakika demlenmesini bekleyin. Süzerek servis yapın.",
+    "youtubeVideoId": "VQx4I5HAa4g",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/appleTea.jpg"
+  },
+  {
+    "id": 3,
+    "beverageName": "Kakao",
+    "mood": "Rahat",
+    "contents": "200 ml süt\n2 yemek kaşığı kakao\n1 tatlı kaşığı şeker",
+    "preparation": "Sütü bir tencereye alın ve ısıtmaya başlayın. Isınmaya başlayan süte kakao ve şekeri ekleyin. Karıştırarak malzemelerin iyice erimesini sağlayın. Sıcak olarak servis yapın.",
+    "youtubeVideoId": "pn-W0DVQw8Y",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/hotCocoa.jpg"
+  },
+  {
+    "id": 4,
+    "beverageName": "Papatya ve Bal Çayı",
+    "mood": "Rahat",
+    "contents": "2 poşet papatya çayı\n1 yemek kaşığı bal\n200 ml su",
+    "preparation": "Suyu kaynatın ve bir bardağa papatya çayı poşetlerini ekleyin. 5-7 dakika demlenmesini bekleyin. Demlenen çaya balı ekleyerek karıştırın ve sıcak olarak servis yapın.",
+    "youtubeVideoId": "n7cL1wabp0k",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/chamomileHoneyTea.jpg"
+  },
+  {
+    "id": 5,
+    "beverageName": "Mandalinalı Iced Tea",
+    "mood": "Rahat",
+    "contents": "2 adet mandalina\n2 poşet siyah çay\n500 ml su",
+    "preparation": "Mandalinaları sıkın ve su ile karıştırın. Siyah çay poşetlerini ekleyerek 5 dakika demlenmesini bekleyin. Soğuduktan sonra süzün ve buz ile servis yapın.",
+    "youtubeVideoId": "kIrKJiuTSwc",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/tangerineIcedTea.jpg"
+  },
+  {
+    "id": 6,
+    "beverageName": "Gül Suyu",
+    "mood": "Rahat",
+    "contents": "Birkaç adet gül yaprağı\n200 ml su",
+    "preparation": "Suyu kaynatın ve bir bardağa gül yapraklarını ekleyin. 5 dakika demlenmesini bekleyin. Demlenen suyu süzerek servis yapın.",
+    "youtubeVideoId": "aPlwRQ5LeBs",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/roseWater.jpg"
+  },
+  {
+    "id": 7,
+    "beverageName": "Kivi Smoothie",
+    "mood": "Rahat",
+    "contents": "2 adet kivi\n1 adet muz\n200 ml badem sütü",
+    "preparation": "Kivileri ve muzu blender'dan geçirin. Badem sütünü ekleyerek pürüzsüz bir kıvam alana kadar blendırın. Soğuk olarak servis yapın.",
+    "youtubeVideoId": _z2lQab9guE",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/kiwiSmoothie.jpg"
+  },
+  {
+    "id": 8,
+    "beverageName": "Çikolatalı Sıcak Süt",
+    "mood": "Rahat",
+    "contents": "200 ml süt\n2 yemek kaşığı bitter çikolata rendesi",
+    "preparation": "Sütü bir tencereye alın ve ısıtmaya başlayın. Isınmaya başlayan sütün içine bitter çikolata rendesini ekleyin. Karıştırarak eritin. Sıcak olarak servis yapın.",
+    "youtubeVideoId": "6nXv-Np-Bc4",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/hotChocolate.jpg"
+  },
+  {
+    "id": 9,
+    "beverageName": "Avokado Smoothie",
+    "mood": "Rahat",
+    "contents": "1 adet avokado\n1 yemek kaşığı bal\n200 ml süt",
+    "preparation": "Avokadoyu ezin ve süt ile karıştırın. Balı ekleyerek blendırın. Soğuk olarak servis yapın.",
+    "youtubeVideoId": "woukz-Z2Urw",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/avocadoSmoothie.jpg"
+  },
+  {
+    "id": 10,
+    "beverageName": "Karpuzlu Iced Tea",
+    "mood": "Rahat",
+    "contents": "Birkaç dilim karpuz\n2 poşet yeşil çay\n500 ml su",
+    "preparation": "Karpuz dilimlerini blender'dan geçirin. Suyu ekleyerek karıştırın. Yeşil çay poşetlerini ekleyerek 5 dakika demlenmesini bekleyin. Soğuduktan sonra süzün ve buz ile servis yapın.",
+    "youtubeVideoId": "Vs5APlWfeVA",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/watermelonIcedTea.jpg"
+  }
+]
