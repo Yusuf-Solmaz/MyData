@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "beverageName": "Tropik Smoothie",
+    "mood": "Heyecanlı",
+    "contents": "Birkaç dilim mango\nBirkaç dilim ananas\n1 adet muz\n200 ml hindistancevizi suyu",
+    "preparation": "Tüm meyveleri blender'dan geçirin. Hindistancevizi suyu ile kıvamını ayarlayın. Pürüzsüz bir smoothie elde edene kadar blendırın ve servis yapın.",
+    "youtubeVideoId": "CU5xAQA-CGM",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/tropicalSmoothie.jpg"
+  },
+  {
+    "id": 2,
+    "beverageName": "Limonata",
+    "mood": "Heyecanlı",
+    "contents": "3 adet limon\n4 yemek kaşığı şeker\n1 litre su",
+    "preparation": "Limonların kabuğunu rendeleyin ve su ile birlikte bir tencereye alın. Kaynatın ve şeker ekleyerek karıştırın. Soğuduktan sonra süzün ve servis yapın.",
+    "youtubeVideoId": 5_sHXJC9ocA",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/lemonade.jpg"
+  },
+  {
+    "id": 3,
+    "beverageName": "Mint Mojito",
+    "mood": "Heyecanlı",
+    "contents": "Birkaç yaprak taze nane\n1 adet limon\n2 yemek kaşığı beyaz rom\n200 ml soda",
+    "preparation": "Bir bardakta nane yapraklarını ve limon dilimlerini ezin. Üzerine rom ve sodayı ekleyin. İyice karıştırarak servis yapın.",
+    "youtubeVideoId": "4VSF56JyDkU",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/mintMojito.jpg"
+  },
+  {
+    "id": 4,
+    "beverageName": "Kirazlı Limonata",
+    "mood": "Heyecanlı",
+    "contents": "1 su bardağı kiraz\n3 adet limon\n5 yemek kaşığı şeker\n1 litre su",
+    "preparation": "Limonların kabuğunu rendeleyin ve su ile birlikte bir tencereye alın. Kaynatın ve şeker ekleyerek karıştırın. Kirazları blender'dan geçirin ve süzün. Soğuduktan sonra limonata ile karıştırıp servis yapın.",
+    "youtubeVideoId": "s0sWE-R9jb4",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/cherryLemonade.jpg"
+  },
+  {
+    "id": 5,
+    "beverageName": "Naneli Iced Tea",
+    "mood": "Heyecanlı",
+    "contents": "2 poşet siyah çay\n1 litre su\nBirkaç yaprak taze nane",
+    "preparation": "Suyu kaynatın ve çay poşetlerini ekleyin. 5-7 dakika demlenmesini bekleyin. Demlenen çaya nane yapraklarını ekleyerek soğumaya bırakın. Soğuduktan sonra süzün ve buz ile servis yapın.",
+    "youtubeVideoId": "kkA1Lir8S3M",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/mintIcedTea.jpg"
+  },
+  {
+    "id": 6,
+    "beverageName": "Karpuzlu Soda",
+    "mood": "Heyecanlı",
+    "contents": "Birkaç dilim karpuz\n200 ml soda",
+    "preparation": "Karpuz dilimlerini blender'dan geçirin ve süzün. Bir bardağa karpuz suyunu alın ve üzerine sodayı ekleyin. Karıştırarak servis yapın.",
+    "youtubeVideoId": "AyroWb9OL3c",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/watermelonSoda.jpg"
+  },
+  {
+    "id": 7,
+    "beverageName": "Böğürtlenli Smoothie",
+    "mood": "Heyecanlı",
+    "contents": "Birkaç yemek kaşığı böğürtlen\n1 adet muz\n200 ml badem sütü",
+    "preparation": "Muzu, böğürtleni ve badem sütünü blender'dan geçirin. Pürüzsüz bir smoothie elde edene kadar blendırın ve servis yapın.",
+    "youtubeVideoId": "HXofIGoanXc",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/blackberrySmoothie.jpg"
+  },
+  {
+    "id": 8,
+    "beverageName": "Greyfurtlu Iced Tea",
+    "mood": "Heyecanlı",
+    "contents": "1 adet greyfurt\n2 poşet yeşil çay\n1 litre su",
+    "preparation": "Greyfurtu sıkın ve su ile karıştırın. Yeşil çay poşetlerini ekleyerek 10 dakika demlenmesini bekleyin. Süzün ve buz ile servis yapın.",
+    "youtubeVideoId": "TEWK7L7BH6M",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/grapefruitIcedTea.jpg"
+  },
+  {
+    "id": 9,
+    "beverageName": "Elmalı Punch",
+    "mood": "Heyecanlı",
+    "contents": "2 adet yeşil elma\n1 adet kırmızı elma\n200 ml soda",
+    "preparation": "Elmaları dilimleyin ve bir blender'da püre haline getirin. Elma püresini bir bardağa alın ve üzerine sodayı ekleyin. Karıştırarak servis yapın.",
+    "youtubeVideoId": "h_kZmSSlD4Y",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/applePunch.jpg"
+  },
+  {
+    "id": 10,
+    "beverageName": "Mandalinalı Smoothie",
+    "mood": "Heyecanlı",
+    "contents": "Birkaç dilim mandalina\n1 adet muz\n200 ml portakal suyu",
+    "preparation": "Mandalina dilimlerini ve muzu blender'dan geçirin. Portakal suyunu ekleyerek pürüzsüz bir smoothie elde edin. Servis yapın.",
+    "youtubeVideoId": "78EjXbDjuUA",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/mandarinSmoothie.jpg"
+  }
+]
