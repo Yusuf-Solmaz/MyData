@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "beverageName": "Lavantalı Sıcak Süt",
+    "mood": "Stresli",
+    "contents": "200 ml süt\n1 yemek kaşığı lavanta balı",
+    "preparation": "Sütü bir tencereye alın ve ısıtmaya başlayın. Süt ısınmaya başladığında lavanta balını ekleyin ve karıştırarak eritin. Sıcak olarak servis yapın.",
+    "youtubeVideoId": "5C8deSvo5U8",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/lavenderMilk.jpg"
+  },
+  {
+    "id": 2,
+    "beverageName": "Papatya Çayı",
+    "mood": "Stresli",
+    "contents": "2 poşet papatya çayı\n200 ml su",
+    "preparation": "Suyu kaynatın ve bir bardağa kamomil çayı poşetlerini ekleyin. 5-7 dakika demlenmesini bekleyin. Demlenen çayı süzün ve sıcak olarak servis yapın.",
+    "youtubeVideoId": "p4eJRxTDtEA",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/chamomileTea.jpg"
+  },
+  {
+    "id": 3,
+    "beverageName": "Zencefilli Limonlu Su",
+    "mood": "Stresli",
+    "contents": "1 adet limon\n1 parça zencefil\n500 ml su",
+    "preparation": "Limonu sıkın ve su ile karıştırın. Zencefili rendeleyin ve suya ekleyin. İyice karıştırın ve soğuk olarak servis yapın.",
+    "youtubeVideoId": "pcTn3ELayMU",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/gingerLemonWater.jpg"
+  },
+  {
+    "id": 4,
+    "beverageName": "Nane Çayı",
+    "mood": "Stresli",
+    "contents": "Birkaç yaprak taze nane\n200 ml su",
+    "preparation": "Suyu kaynatın ve bir bardağa taze nane yapraklarını ekleyin. 5 dakika demlenmesini bekleyin. Demlenen çayı süzün ve sıcak olarak servis yapın.",
+    "youtubeVideoId": "tFNmhoeGYIM",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/mintTea.jpg"
+  },
+  {
+    "id": 5,
+    "beverageName": "Sarımsaklı Süt",
+    "mood": "Stresli",
+    "contents": "200 ml süt\n1 diş sarımsak",
+    "preparation": "Sütü bir tencereye alın ve ısıtmaya başlayın. Süt ısınmaya başladığında ezilmiş sarımsağı ekleyin ve karıştırarak eritin. Sıcak olarak servis yapın.",
+    "youtubeVideoId": "KtAgV8FArPQ",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/garlicMilk.jpg"
+  },
+  {
+    "id": 6,
+    "beverageName": "Keten Tohumlu Su",
+    "mood": "Stresli",
+    "contents": "1 yemek kaşığı keten tohumu\n200 ml su",
+    "preparation": "Keten tohumunu su ile birlikte bir sürahiye alın. En az 1 saat bekletin ve ardından süzün. Elde ettiğiniz suyu sıcak olarak veya soğuk olarak tüketin.",
+    "youtubeVideoId": "CQfis1utf8Q",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/flaxseedWater.jpg"
+  },
+  {
+    "id": 7,
+    "beverageName": "Rezene Çayı",
+    "mood": "Stresli",
+    "contents": "1 çay kaşığı rezene tohumu\n200 ml su",
+    "preparation": "Su kaynatın ve bir bardağa rezene tohumunu ekleyin. 10 dakika demlenmesini bekleyin. Demlenen çayı süzün ve sıcak olarak servis yapın.",
+    "youtubeVideoId": "q2hFfTpOIa8",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/fennelTea.jpg"
+  },
+  {
+    "id": 8,
+    "beverageName": "Mandalina Suyu",
+    "mood": "Stresli",
+    "contents": "2 adet mandalina\n200 ml su",
+    "preparation": "Mandalinaları sıkın ve su ile karıştırın. Soğuk olarak servis yapın.",
+    "youtubeVideoId": "jn4vpjTa5Qk",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/tangerineJuice.jpg"
+  },
+  {
+    "id": 9,
+    "beverageName": "Papatya Çayı",
+    "mood": "Stresli",
+    "contents": "2 poşet papatya çayı\n200 ml su",
+    "preparation": "Suyu kaynatın ve bir bardağa papatya çayı poşetlerini ekleyin. 5-7 dakika demlenmesini bekleyin. Demlenen çayı süzün ve sıcak olarak servis yapın.",
+    "youtubeVideoId": "p4eJRxTDtEA",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/chamomileTea.jpg"
+  },
+  {
+    "id": 10,
+    "beverageName": "Kurkuma Sütü",
+    "mood": "Stresli",
+    "contents": "200 ml süt\n1 çay kaşığı kurkuma",
+    "preparation": "Sütü bir tencereye alın ve ısıtmaya başlayın. Süt ısınmaya başladığında kurkuma ekleyin ve karıştırarak eritin. Sıcak olarak servis yapın.",
+    "youtubeVideoId": "PiQIBApI6XQ",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/turmericMilk.jpg"
+  }
+]
