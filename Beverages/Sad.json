@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "beverageName": "Bitter Çikolatalı Süt",
+    "mood": "Hüzünlü",
+    "contents": "200 ml süt\n30 gr bitter çikolata\n2 yemek kaşığı şeker",
+    "preparation": "Bir tencereye sütü alın ve ısıtmaya başlayın. Isınan sütün içine bitter çikolata ve şekeri ekleyin. Karıştırarak malzemelerin iyice erimesini sağlayın. Bitter çikolatalı sütü bardağa alın ve servis yapın.",
+    "youtubeVideoId": "RyJ9D29uZE4",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/darkChocolateMilk.jpg"
+  },
+  {
+    "id": 2,
+    "beverageName": "Siyah Çay",
+    "mood": "Hüzünlü",
+    "contents": "1 poşet siyah çay\n200 ml su\n1 dilim limon\nBirkaç damla bal",
+    "preparation": "Su kaynatın ve bir bardağa siyah çay poşetini ekleyin. 5 dakika demlenmesini bekleyin. Demlenen çaya limon dilimi ve bal ekleyin. Karıştırarak servis yapın.",
+    "youtubeVideoId": "xPV6aBjZVZg",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/blackTea.jpg"
+  },
+  {
+    "id": 3,
+    "beverageName": "Limonlu Soda",
+    "mood": "Hüzünlü",
+    "contents": "200 ml soda\nBirkaç damla limon suyu\n2 yemek kaşığı şeker",
+    "preparation": "Bir bardağa sodayı alın ve üzerine limon suyu ile şekeri ekleyin. Karıştırarak servis yapın.",
+    "youtubeVideoId": "6gTZKAxJptU",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/lemonSoda.jpg"
+  },
+  {
+    "id": 4,
+    "beverageName": "Papatya Çayı",
+    "mood": "Hüzünlü",
+    "contents": "1 poşet papatya çayı\n200 ml su",
+    "preparation": "Su kaynatın ve bir bardağa papatya çayı poşetini ekleyin. 10 dakika demlenmesini bekleyin. Demlenen çayı süzün ve servis yapın.",
+    "youtubeVideoId": "LTirCePXajk",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/chamomileTea.jpg"
+  },
+  {
+    "id": 5,
+    "beverageName": "Vanilyalı Kakao",
+    "mood": "Hüzünlü",
+    "contents": "200 ml süt\n2 yemek kaşığı kakao\n1 yemek kaşığı vanilya ekstraktı",
+    "preparation": "Bir tencereye sütü alın ve ısıtmaya başlayın. Isınan sütün içine kakao ve vanilya ekstraktını ekleyin. Karıştırarak malzemelerin iyice erimesini sağlayın. Vanilyalı kakaoyu bardağa alın ve servis yapın.",
+    "youtubeVideoId": "KCTjeIvrw9M",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/vanillaCocoa.jpg"
+  },
+  {
+    "id": 6,
+    "beverageName": "Hindistan Cevizli Latte",
+    "mood": "Hüzünlü",
+    "contents": "200 ml süt\n1 yemek kaşığı hindistan cevizi rendesi\n2 shot espresso",
+    "preparation": "Espresso'yu hazırlayın. Ayrı bir yerde sütü ısıtın ve içerisine hindistan cevizi rendesini ekleyin. Isınan sütü bir bardağa alın ve üzerine espresso'yu ekleyin. Karıştırarak servis yapın.",
+    "youtubeVideoId": "aar95C3yzws",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/coconutLatte.jpg"
+  },
+  {
+    "id": 7,
+    "beverageName": "Lavantalı Su",
+    "mood": "Hüzünlü",
+    "contents": "1 yemek kaşığı lavanta çiçeği\n200 ml su",
+    "preparation": "Su kaynatın ve bir bardağa lavanta çiçeğini ekleyin. 5 dakika demlenmesini bekleyin. Demlenen suyu süzün ve servis yapın.",
+    "youtubeVideoId": "a7Vsd72Pm5I",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/lavenderWater.jpg"
+  },
+  {
+    "id": 8,
+    "beverageName": "Karamel Macchiato",
+    "mood": "Hüzünlü",
+    "contents": "200 ml süt\n2 shot espresso\n2 yemek kaşığı karamel sos",
+    "preparation": "Espresso'yu hazırlayın ve bir bardağa alın. Sütü ısıtın ve içerisine karamel sosu ekleyin. Isınan karamelli sütü bardağa ekleyin. Üzerine espresso'yu ekleyin ve karıştırmadan servis yapın.",
+    "youtubeVideoId": "ACP23nZtlhI",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/caramelMacchiato.jpg"
+  },
+  {
+    "id": 9,
+    "beverageName": "Zencefilli Çay",
+    "mood": "Hüzünlü",
+    "contents": "1 dilim taze zencefil\n200 ml su\nBirkaç damla limon suyu",
+    "preparation": "Su kaynatın ve bir bardağa zencefil dilimini ekleyin. 10 dakika demlenmesini bekleyin. Demlenen çaya birkaç damla limon suyu ekleyin ve servis yapın.",
+    "youtubeVideoId": "KdHLrZmRtk0",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/gingerTea.jpg"
+  },
+  {
+    "id": 10,
+    "beverageName": "Misket Limonlu Soda",
+    "mood": "Hüzünlü",
+    "contents": "200 ml soda\n1 yemek kaşığı misket limon suyu\nBirkaç yaprak nane",
+    "preparation": "Bir bardağa sodayı alın ve üzerine misket limon suyu ekleyin. Karıştırın ve nane yapraklarıyla süsleyerek servis yapın.",
+    "youtubeVideoId": "w0hkeN7fqH8",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/coffeeImages/lemonSodaMint.jpg"
+  }
+]
