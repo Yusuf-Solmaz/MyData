@@ -21,8 +21,8 @@
     "id": 3,
     "beverageName": "Mint Mojito",
     "mood": "Heyecanlı",
-    "contents": "Birkaç yaprak taze nane\n1 adet limon\n2 yemek kaşığı beyaz rom\n200 ml soda",
-    "preparation": "Bir bardakta nane yapraklarını ve limon dilimlerini ezin. Üzerine rom ve sodayı ekleyin. İyice karıştırarak servis yapın.",
+    "contents": "Birkaç yaprak taze nane\n1 adet limon\n200 ml soda",
+    "preparation": "Bir bardakta nane yapraklarını ve limon dilimlerini ezin. Üzerine sodayı ekleyin. İyice karıştırarak servis yapın.",
     "youtubeVideoId": "4VSF56JyDkU",
     "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/mintMojito.jpg"
   },
