@@ -36,15 +36,6 @@
     "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/cherryMojito.jpg"
   },
   {
-    "id": 5,
-    "beverageName": "Atom",
-    "mood": "Romantik",
-    "contents": "Birkaç dilim çilek\n50 ml portakal suyu\n50 ml elma suyu\n10 ml ahududu püresi\n1 çay kaşığı toz şeker",
-    "preparation": "1. Çilek dilimlerini bir kokteyl bardağına yerleştirin.\n2. Taze sıkılmış portakal suyu, elma suyu ve ahududu püresini bardağa ekleyin.\n3. Toz şekeri ekleyin.\n4. Tüm malzemeleri bardağın içinde bir karıştırıcı ile karıştırın.\n5. Bardağın kenarına bir çilek dilimi ve nane yaprağı ekleyerek süsleyin.\n6. Üzerine buz küpleri ekleyerek soğuk servis yapın.",
-    "youtubeVideoId": "1NILBDkg5ow",
-    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/atom.jpg"
-  },
-  {
     "id": 6,
     "beverageName": "Mandalinalı Vanilyalı Smoothie",
     "mood": "Romantik",
