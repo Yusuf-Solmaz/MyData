@@ -37,30 +37,30 @@
   },
   {
     "id": 5,
-    "beverageName": "Çilekli Champagne",
+    "beverageName": "Atom",
     "mood": "Romantik",
-    "contents": "Birkaç dilim çilek\n150 ml soğuk şampanya",
-    "preparation": "Bir şampanya kadehine çilek dilimlerini yerleştirin. Üzerine soğuk şampanyayı dökün ve hemen servis yapın.",
-    "youtubeVideoId": "zXR7W-E2Ir4",
-    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/strawberryChampagne.jpg"
+    "contents": "Birkaç dilim çilek\n50 ml taze sıkılmış portakal suyu\n50 ml elma suyu\n10 ml ahududu püresi\nBir tutam nane yaprağı\n1 çay kaşığı toz şeker",
+    "preparation": "1. Çilek dilimlerini bir kokteyl bardağına yerleştirin.\n2. Taze sıkılmış portakal suyu, elma suyu ve ahududu püresini bardağa ekleyin.\n3. Bir tutam nane yaprağı ve toz şekeri ekleyin.\n4. Tüm malzemeleri bardağın içinde bir karıştırıcı ile karıştırın.\n5. Bardağın kenarına bir çilek dilimi ve nane yaprağı ekleyerek süsleyin.\n6. Üzerine buz küpleri ekleyerek soğuk servis yapın.",
+    "youtubeVideoId": "1NILBDkg5ow",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/atom.jpg"
   },
   {
     "id": 6,
-    "beverageName": "Mandalinalı Bellini",
+    "beverageName": "Mandalinalı Vanilyalı Smoothie",
     "mood": "Romantik",
-    "contents": "Birkaç dilim mandalina\n150 ml soğuk şampanya",
-    "preparation": "Mandalina dilimlerini bir blender'a alın ve püre haline getirin. Bir bardağa mandalina püresini dökün ve üzerine soğuk şampanyayı ekleyin. İyice karıştırarak servis yapın.",
-    "youtubeVideoId": "e1fR6ur19ec",
-    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/mandarinBellini.jpg"
-  },
+    "contents": "Birkaç dilim mandalina\n150 ml soda\nBir tutam vanilya özü",
+    "preparation": "1. Mandalina dilimlerini bir blender'da püre haline getirin.\n2. Püre haline getirilmiş mandalina ve bir tutam vanilya özünü bir bardağa ekleyin.\n3. İyice karıştırın ve üzerine soda ekleyin.\n4. Hafifçe karıştırarak soğuk servis yapın.",
+    "youtubeVideoId": "78EjXbDjuUA",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/mandarinSerenade.jpg"
+},
   {
     "id": 7,
-    "beverageName": "Çilekli Daiquiri",
+    "beverageName": "Çikolatalı Sıcak İçecek",
     "mood": "Romantik",
-    "contents": "Birkaç dilim çilek\n2 yemek kaşığı beyaz rom\n1 yemek kaşığı limon suyu\n1 yemek kaşığı şeker",
-    "preparation": "Bir blender'da çilek dilimlerini, beyaz romu, limon suyunu ve şekeri karıştırın. Pürüzsüz bir kıvam alana kadar blendırın ve servis yapın.",
-    "youtubeVideoId": "VhjtRZdw9aE",
-    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/strawberryDaiquiri.jpg"
+    "contents": "200 ml süt\n30 gr bitter çikolata\nBirkaç damla vanilya özütü",
+    "preparation": "Bir tencereye sütü alın ve ısıtmaya başlayın. Isınan sütün içine bitter çikolata ve vanilya özütünü ekleyin. Karıştırarak malzemelerin iyice erimesini sağlayın. Sıcak içeceği bardağa alın ve servis yapın.",
+    "youtubeVideoId": "6nXv-Np-Bc4",
+    "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/chocolateDrink.jpg"
   },
   {
     "id": 8,
