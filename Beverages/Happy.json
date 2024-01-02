@@ -82,10 +82,10 @@
   },
   {
     "id": 10,
-    "beverageName": "Kokteyl",
+    "beverageName": "Ekşi Kokteyl",
     "mood": "Mutlu",
-    "contents": "50 ml votka\n150 ml portakal suyu\n2 yemek kaşığı limon suyu\nBirkaç buz küpü",
-    "preparation": "Bir kokteyl shaker'ında tüm malzemeleri buz küpleriyle birlikte çalkalayın. Kokteyli bardağa süzerek alın ve servis yapın.",
+    "contents": "150 ml portakal suyu\n2 yemek kaşığı limon suyu\nBirkaç buz küpü",
+    "preparation": "Bir kokteyl shaker'ında veya 2 bardak arasında tüm malzemeleri buz küpleriyle birlikte çalkalayın. Kokteyli bardağa süzerek alın ve servis yapın.",
     "youtubeVideoId": "BF8ni4a58HU",
     "imageUrl": "https://raw.githubusercontent.com/Yusuf-Solmaz/MyData/main/BeveragesImages/cocktail.jpg"
   }
